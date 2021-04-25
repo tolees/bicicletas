@@ -28,10 +28,10 @@ Está [HMEDA Luz Trasera de Bicicleta Luz Trasera Bici Compacta LED USB Recargab
 
 ℹ️:
 
-- Luz de la cola de la bicicleta impermeable: La luz trasera está hecha de un material resistente al agua con clasificación IP65 para garantizar un uso seguro en caso de lluvia intensa.
-- Cinco opciones de modo de funcionamiento: luz estroboscópica (9horas), luz estroboscópica lenta (56 horas), flash de meteorito (14 horas), flash de molino de viento (17 horas), flash de respiración (8horas). Puede cambiar los diferentes modos según sus necesidades para obtener la mejor experiencia de iluminación.
-- Luz de seguridad multifuncional: Fácil de instalar. Luz trasera de bicicleta ligera y duradera que se puede montar en todas las bicicletas, bicicletas para niños, bicicletas para adultos, manillares, asientos, collares de perro o en cualquier lugar. También se puede usar como luces de casco, luces de mochila, luces de advertencia y más.
 - Soporte de por vida: ¡Garantía total de 24 meses sin preocupaciones con soporte de por vida! Servicio al cliente las 24 horas, solo compre y disfrute de este producto superior con confianza y sin riesgos.
+- Luz de la cola de la bicicleta impermeable: La luz trasera está hecha de un material resistente al agua con clasificación IP65 para garantizar un uso seguro en caso de lluvia intensa.
+- Luz de seguridad multifuncional: Fácil de instalar. Luz trasera de bicicleta ligera y duradera que se puede montar en todas las bicicletas, bicicletas para niños, bicicletas para adultos, manillares, asientos, collares de perro o en cualquier lugar. También se puede usar como luces de casco, luces de mochila, luces de advertencia y más.
 - No se requieren baterías: la luz trasera incorpora una batería de 250mAh de capacidad y bajo consumo de energía, pero con luces LED brillantes. Puerto de carga USB incorporado para esta luz trasera de bicicleta (cable USB incluido), que asegura hasta 15 horas de reproducción en modo de parpadeo lento, con solo 2 horas de carga.
+- Cinco opciones de modo de funcionamiento: luz estroboscópica (9horas), luz estroboscópica lenta (56 horas), flash de meteorito (14 horas), flash de molino de viento (17 horas), flash de respiración (8horas). Puede cambiar los diferentes modos según sus necesidades para obtener la mejor experiencia de iluminación.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MF7S9B6/?tag=tolees-21)
