@@ -28,10 +28,10 @@ Tienes [ANVAVA Luz Bicicleta Delantera y Trasera Recargable Conjuntos Linterna B
 
 🔎:
 
-- Política de Devolución de 6 Meses: ANVAVA proporcionará a los clientes servicios amigables de devolución y cambio. Tienes 6 meses para probar el rendimiento de esta luz de bicicleta. Compre con confianza, si no está satisfecho, no dude en contactarnos.
 - Súper Brillantes y Múltiples Modos: el luz bicicleta brindan seguridad para su conducción nocturna. La luz delantera de 300 lúmenes tiene 3 modos (flash-alto-bajo), alto brillo, larga distancia para garantizar la seguridad de conducción; la luz trasera de 100 lúmenes tiene 4 modos para satisfacer sus diferencias Necesidades de iluminación.
 - IPX65 Impermeable y 120 db Campana: IP65 impermeable, adecuado todo tipo de clima, ya sea lluvia o niebla, puede brindar visibilidad y brindarle protección de seguridad en condiciones climáticas adversas. El altavoz de 120db tiene una variedad de sonidos de aviso de modo para aumentar el rendimiento de seguridad para su conducción.
 - Fácil de Instalar y Liberación Rápida: el luz bici delanteros se montan y fijan con bandas elásticas de goma, que se pueden instalar y desmontar rápidamente sin herramientas, lo que es conveniente para uso de emergencia. La luz trasera se fija fácilmente con aro de goma elástica, simple y firme.
+- Política de Devolución de 6 Meses: ANVAVA proporcionará a los clientes servicios amigables de devolución y cambio. Tienes 6 meses para probar el rendimiento de esta luz de bicicleta. Compre con confianza, si no está satisfecho, no dude en contactarnos.
 - Recargable USB y Multiusos: este conjuntos de luces delanteras y traseras para bicicleta se puede cargar con un cargador USB, una PC o cualquier puerto USB. El tiempo de carga es de 3-4 horas, rápido y protección del medio ambiente. Además se puede utilizar como una linterna de emergencia, andar en bicicleta de noche, acampar, caminar u otros cascos de trabajo nocturno.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MFJSV9Q/?tag=tolees-21)
