@@ -28,11 +28,11 @@ Ahora mismo tienes [Beurer PM70 - Pulsómetro con fijación para bicicleta  cale
 
 🔎:
 
-- Reloj pulsómetro con medidor de ritmo cardiaco
-- Ritmo cardiaco promedio y máx (AVG/MAX)
-- Transmisión digital de datos
 - Ajuste niveles entreno y alarmas ritmo cardiaco
-- (ECG) Medidor exacto del ritmo cardiaco
+- Transmisión digital de datos
+- Ritmo cardiaco promedio y máx (AVG/MAX)
 - Consumo de calorías (Kcal)
+- (ECG) Medidor exacto del ritmo cardiaco
+- Reloj pulsómetro con medidor de ritmo cardiaco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0029FEDK2/?tag=tolees-21)
