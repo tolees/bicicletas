@@ -28,10 +28,10 @@ Ahora mismo tienes [Yungo Luz de Bicicleta Delantera USB Recargable Impermeable 
 
 🔎:
 
-- ♣【Material en Aluminio de Aviación】Sólido y robusto protege contra la erosión y los golpes. Diseño resistente al agua, la protección del agua IP65. Estable y ligero perfecto para viajar, senderismo, ciclismo, ciclismo y otros deportes al aire libre.
+- ♣【Recargable USB】Completamente recargable, nunca compre pilas de nuevo! Proporcionamos una batería de USB recargable para los faros! Faro trasero está diseñado con un sistema incorporado en Micro USB de carga Tecnología portuaria sin cables molestos y módulos de baterías voluminosas! Disfrutar de tiempo de carga corto y largo tiempo de iluminación!
 - ♣【Linterna Retráctil】Se puede rotar la cabeza para cambiar de manera ligera el punto de mira y el reflector para iluminar a mayor distancia. Este linterna tiene 3 modos: Luz de bajo / medio / alto y estroboscópico. Flexible para satisfacer sus necesidades de iluminación diferentes.
 - ♣【Contenido del Paquete】 Luz de bicicleta delantera,uno cable usb, y servicio de atención al cliente amigable.
-- ♣【Recargable USB】Completamente recargable, nunca compre pilas de nuevo! Proporcionamos una batería de USB recargable para los faros! Faro trasero está diseñado con un sistema incorporado en Micro USB de carga Tecnología portuaria sin cables molestos y módulos de baterías voluminosas! Disfrutar de tiempo de carga corto y largo tiempo de iluminación!
+- ♣【Material en Aluminio de Aviación】Sólido y robusto protege contra la erosión y los golpes. Diseño resistente al agua, la protección del agua IP65. Estable y ligero perfecto para viajar, senderismo, ciclismo, ciclismo y otros deportes al aire libre.
 - ♣【Facil de Instalar y Desmontar】Este faro para bicicleta se puede instalar en un minuto,No necesita herramientas y es apta todo tipo de bicicletas. Se ajustar a todas las bicicletas: bicicletas de carretera de gran tamaño, bicicletas urbanas de cercanías o bicicletas de montaña y para niños.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HCLJWLW/?tag=tolees-21)
