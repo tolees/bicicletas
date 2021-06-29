@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moma Bikes City Classic 28" - Bicicleta  con un 30.05 % de descuento'
-date: 2021-06-27 17:09:19
+date: 2021-06-28 21:23:41
 image: 'https://m.media-amazon.com/images/I/413WFBF3L8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,14 +29,14 @@ En este momento está [Moma Bikes City Classic 28" - Bicicleta Paseo  Aluminio  
 🔎:
 
 - Bicicleta Urbana comoda gracias a la posición de la espalda recta.
-- Llantas de aluminio, ruedas 28"
-- Cesta delantera & Luz delantera y trasera
-- Portabultos trasero integrado en el cuadro
-- Cambio Shimano TZ-50 18 velocidades
-- Manetas de freno de aluminio
 - Accionamientos Shimano Revoshift RS35
+- Llantas de aluminio, ruedas 28"
+- Portabultos trasero integrado en el cuadro
 - Cuadro de aluminio bajo : más fácil y práctico para subirse
-- Frenos V-Brake de aluminio
+- Cambio Shimano TZ-50 18 velocidades
+- Cesta delantera & Luz delantera y trasera
+- Manetas de freno de aluminio
 - Piñón original Shimano
+- Frenos V-Brake de aluminio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VXE3WRA/?tag=tolees-21)
