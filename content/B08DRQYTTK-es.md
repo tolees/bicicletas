@@ -28,10 +28,10 @@ En este momento está [Moma Bikes Bicicleta Montaña MTB26 CLIMBER  21vel  freno
 
 🔎:
 
+- Llantas de Aluminio
+- Frenos V Brake
+- Cambio 21 Velocidades
 - Cuadro Hi-Ten
 - Cubierta 26 X2.10
-- Cambio 21 Velocidades
-- Frenos V Brake
-- Llantas de Aluminio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DRQYTTK/?tag=tolees-21)
