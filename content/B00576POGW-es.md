@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultrasport Rodillo para Bicicleta con y  al 21.37 % de descuento'
-date: 2021-07-24 10:15:24
+date: 2021-07-25 23:54:43
 image: 'https://m.media-amazon.com/images/I/41YyDfk4OuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [Ultrasport Rodillo para Bicicleta con y Sin Cierre Rápido  Carga Máxima
 
 - Rodillo está equipado con un cambio en el manillar que regula la resistencia o el grado de dificultad en 7 niveles
 - Rodillo transforma en un momento una bicicleta con ruedas de 66,04 cm (26 pulgadas) o 71,12 cm (28 pulgadas) en un aparato de entrenamiento para interiores para utilizar en casa
+- Dimensiones del rodillo para bicicleta: anch. x prof. x alt. montado aprox. 55 x 46 x 38,5 cm, plegado aprox. 55 x 17 x 45 cm; carga máxima 100 kg (bicicleta incluida)
 - Puede plegarse de forma compacta para guardarlo: durante la temporada de entrenamiento en exteriores, el rodillo de bicicleta no estorba
 - Un rodillo suave y silencioso, con rodillo con función magnética, apto para bicicletas con y sin cierre rápido
-- Dimensiones del rodillo para bicicleta: anch. x prof. x alt. montado aprox. 55 x 46 x 38,5 cm, plegado aprox. 55 x 17 x 45 cm; carga máxima 100 kg (bicicleta incluida)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00576POGW/?tag=tolees-21)
