@@ -28,9 +28,9 @@ Está [HOMCOM Bicicleta Estática para Ejercicios Profesional Bicicleta Vertical
 
 ℹ️:
 
+- MEDIDAS: Medidas totales: 43x97x109 cm (LxANxAL). Medidas plegadas: 43x56x129 cm (LxAnxAl)
 - ASIENTO AJUSTABLE Y AJUSTE DE RESISTENCIA: El asiento con respaldo ajustable en 5 niveles se adapta al usuario. El volante tiene 8 niveles de resistencia magnética regulable para regular la intensidad del entrenamiento
 - PLEGABLE: Su estructura plegable te ahorra la mitad de espacio cuando no la utilizas, así si lo prefieres puedes guardarla y despejar la zona para realizar otras actividades
-- MEDIDAS: Medidas totales: 43x97x109 cm (LxANxAL). Medidas plegadas: 43x56x129 cm (LxAnxAl)
 - BICICLETA ESTÁTICA CON ASIENTO CON RESPALDO: Ideal para ejercitarte desde la comodidad de tu propia casa. Practica ejercicios aeróbicos y de fuerza al mismo tiempo favoreciendo el entrenamiento de brazos, piernas, cintura y glúteos
 - PANTALLA LCD: Perfecta para controlar el tiempo, velocidad, distancia, calorías, kilometraje total, frecuencia cardíaca. Funciona con 2 pilas AAA (NO INCLUIDAS)
 
