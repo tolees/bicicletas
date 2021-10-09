@@ -30,8 +30,8 @@ Tienes [ONOGAL - Pedales Dobles Para Bicicleta de Niño con Reflectante Montaña
 
 - Ligeros y resistentes
 - Antideslizantes. Color: ver fotografía
-- Con reflectantes. Dimensiones: 95 mm x 62 mm
 - Estructura y jaula de resina reforzada. Rosca Estándar
 - Juego de pedales para Bicicleta de Niño fabricados en Resina de alta resistencia lo que le confiere una gran ligereza
+- Con reflectantes. Dimensiones: 95 mm x 62 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZAONBHU/?tag=tolees-21)
