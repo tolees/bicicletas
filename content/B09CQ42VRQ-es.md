@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NK Bolsa Bicicleta Manillar - Bolsa Almacenaje para Bici con Soporte para Teléfono  Impermeable  Ventana Táctil para Pantalla hasta 7"  Bolsillo Almacenaje  Resistente al Sol  Ranura para Auriculares'
-date: 2021-12-21 16:17:15
+date: 2021-12-22 17:30:35
 image: 'https://m.media-amazon.com/images/I/51GnworZ-jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
