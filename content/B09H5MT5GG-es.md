@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gobikey Luces Bicicleta 1200mAh  3 + 5 Modos Luces Delanteras y Traseras Recargables USB para Bicicleta con 120dB Zumbador  IP65 Impermeable Luz LED Bicicleta para Ciclismo de montaña y Carretera'
-date: 2023-01-11 10:02:14
+date: 2023-01-12 16:05:13
 image: 'https://m.media-amazon.com/images/I/51hbw5rt-hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gobikey'
 buyurl: 'https://www.amazon.es/dp/B09H5MT5GG/?tag=tolees-21'
 descuento: '22.06'
-average: '13.8116666666667'
+average: '13.7971428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
