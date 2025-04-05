@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kit de purga de frenos para bicicleta: la herramienta de versión mejorada Lite es compatible con más tipos de frenos, adecuada para modelos de frenos conocidos de 2000 a 2021, con accesorios de llenado de 12 aceite, incluyendo embudo.
 - Juego de conectores versátiles: el juego de conectores todoterreno se puede conectar tanto a la botella de aceite e incluso es compatible con muchos aceites de elevación y horquilla frontal.
-- El paquete incluye: 2 botellas de 60 ml, 2 inyectores de ventilación, embudo de 35 ml, diferentes adaptadores de juntas de llenado de aceite, 2 guantes, 1 manual de mantenimiento, 1 caja. Juego de herramientas para cambio de aceite de freno de disco como imagen.
 - Diseño de jeringa de alta calidad: estos plásticos superiores resistentes al aceite pueden resistir la erosión a largo plazo causada por el aceite de freno y el choque de aceite sin desvanecerse o agrietarse.
+- El paquete incluye: 2 botellas de 60 ml, 2 inyectores de ventilación, embudo de 35 ml, diferentes adaptadores de juntas de llenado de aceite, 2 guantes, 1 manual de mantenimiento, 1 caja. Juego de herramientas para cambio de aceite de freno de disco como imagen.
+- Kit de purga de frenos para bicicleta: la herramienta de versión mejorada Lite es compatible con más tipos de frenos, adecuada para modelos de frenos conocidos de 2000 a 2021, con accesorios de llenado de 12 aceite, incluyendo embudo.
 - Responde de forma flexible: cada adaptador tiene un sello, los tornillos del depósito reciben un sellado adecuado, las jeringas son resistentes y tienen las asas adecuadas. Se han eliminado los problemas de conducción de la palanca de freno en la parte delantera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seguridad gracias a una mayor visibilidad: gracias al sistema de luces integrado con luces intermitentes, luces de freno y una luz automática para noche/día
-- Novedades del casco: nuevas funciones adicionales como luces de freno, altavoces optimizados y más sonoros, alarma antipérdida y asistente de voz
 - Multimedia: durante la conducción, podrás escuchar música o reproducir mensajes de navegación a través de los altavoces
-- Diseño: 21 orificios de ventilación y construcción ligera; cumple con la normativa EN 1078 de cascos de bicicleta
 - Comodidad: espuma EPS (poliestireno expandido) de calidad y protección adicional gracias a la red para insectos
+- Novedades del casco: nuevas funciones adicionales como luces de freno, altavoces optimizados y más sonoros, alarma antipérdida y asistente de voz
+- Diseño: 21 orificios de ventilación y construcción ligera; cumple con la normativa EN 1078 de cascos de bicicleta
+- Seguridad gracias a una mayor visibilidad: gracias al sistema de luces integrado con luces intermitentes, luces de freno y una luz automática para noche/día
 - Sistema de alarma SOS: los contactos detectados serán notificados después de 90 segundos. Configurable a través de la aplicación Livall
 
 [🛒 Comprar!!!]({{< param buyurl >}})

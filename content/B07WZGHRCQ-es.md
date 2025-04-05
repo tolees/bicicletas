@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONTROLES: Revoshift 3x6, 18 velocidades
-- La bicicleta viene al 90% ensamblada; por favor, mira la "Guía % de Ensamblaje " a continuación para completar el ensamblaje
-- FRENOS: V-brake en aluminio
-- HORQUILLA: Rígida 26"
 - Lo mejor para personas de 160 cm a 175 cm
+- La bicicleta viene al 90% ensamblada; por favor, mira la "Guía % de Ensamblaje " a continuación para completar el ensamblaje
+- HORQUILLA: Rígida 26"
+- FRENOS: V-brake en aluminio
 - CUADRO: 26" MTB Hardtail en acero
+- CONTROLES: Revoshift 3x6, 18 velocidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WZGHRCQ{{</world>}}

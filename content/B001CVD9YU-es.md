@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin abrazadera
 - Con corte V
+- Sin abrazadera
 - Fácil de utilizar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

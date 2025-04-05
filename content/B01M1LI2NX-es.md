@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pedal automático unilateral
-- Jaula de aluminio
 - Sistema: compatible con Shimano SPD
+- Jaula de aluminio
 - Cuerpo de aluminio
+- Pedal automático unilateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01M1LI2NX{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - PARA PROFESIONALES Y AFICIONADOS DEL BRICOLAJE - Se pueden utilizar para cualquier tipo de apriete, para bicicletas, coches, montaje de muebles, electrodomésticos.
 - CLIP PLEGABLE Y FÁCIL DE LLEVAR - La práctica solapa de plástico permite reconocer inmediatamente el tamaño. Son fáciles de usar y ligeros de transportar.
-- DIMENSIONES - Diámetro de llave: 1,27/ 1,5/ 2,0/ 2,5/ 3,0/ 3,5/ 4,0/ 4,5/ 5,0/ 5,5/ 6,0/ 8 ,0/ 10,0 mm
 - JUEGO COMPLETO DE 13 LLAVES ALLEN - Juego de 13 llaves Allen macho hexagonales largas con cabeza esférica (trabajo oblicuo) en un práctico clip para facilitar su transporte
+- DIMENSIONES - Diámetro de llave: 1,27/ 1,5/ 2,0/ 2,5/ 3,0/ 3,5/ 4,0/ 4,5/ 5,0/ 5,5/ 6,0/ 8 ,0/ 10,0 mm
 - LLAVES LARGAS SÓLIDAS Y DE ALTA CALIDAD: estas llaves Allen están fabricadas en cromo níquel de alta resistencia. Son precisos y no se desmoronan.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

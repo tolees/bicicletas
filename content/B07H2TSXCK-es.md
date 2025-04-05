@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Módulo Bluetooth integrado para conectarse a la aplicación Schwinn Explore the World (disponible en espanol) y ejercitar en lugares pintorescos de todo el mundo (video HD), grabar y comparar todos los datos de entrenamiento
+- Monitoreo de la frecuencia cardíaca a través de sensores portátiles integrados en el manillar fijo central o mediante el cinturón de frecuencia cardíaca Bluetooth 4.0 (no incluido)
 - Entrenador elíptico con distancia entre ejes de 46 cm de largo y diseño compacto de solo 134 x 61 (H: 159) cm
 - 16 niveles de resistencia electromagnética
-- Monitoreo de la frecuencia cardíaca a través de sensores portátiles integrados en el manillar fijo central o mediante el cinturón de frecuencia cardíaca Bluetooth 4.0 (no incluido)
+- Módulo Bluetooth integrado para conectarse a la aplicación Schwinn Explore the World (disponible en espanol) y ejercitar en lugares pintorescos de todo el mundo (video HD), grabar y comparar todos los datos de entrenamiento
 - Computadora a bordo fácil de usar con 12 programas y visualización de datos de entrenamiento (tiempo, calorías, distancia, velocidad)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
