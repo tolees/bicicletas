@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Sistema de ajuste Roc Loc 5
 - Tecnología MIPS integrada
 - Carcasa de policarbonato In-Mold con carcasa interior de EPS
-- Peso: aprox. 280 g
 - 32 orificios de ventilación del túnel de viento
+- Peso: aprox. 280 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0816QLH3K{{</world>}}

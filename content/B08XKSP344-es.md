@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Volante de inercia equivalente a 18 kg.
+- Transmisión por correa (PK5).
 - Manillar regulable verticalmente con indicador de posición en el tubo
 - Marcador electrónico con indicaciones de: Tiempo, Velocidad, Distancia, RPM, ODO y Calorías
 - Freno magnético
-- Transmisión por correa (PK5).
-- Volante de inercia equivalente a 18 kg.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XKSP344{{</world>}}

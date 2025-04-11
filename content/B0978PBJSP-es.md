@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño: para 2-5 años
 - Tipo de producto: SPORT HELMET
-- Marca: XIAPIA
+- Tamaño: para 2-5 años
 - XIAPIA Casco para Niños y Niñas de 2-5 Años, Casco Infantil de Bicicleta Ajustable, Casco de Patinadora para Niños, Artículos Deportivos Ligeros y Robustos, Diámetro 51-54 cm
+- Marca: XIAPIA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0978PBJSP{{</world>}}

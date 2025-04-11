@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🚲 FÁCIL INSTALACION: Sencilla instalación en cuestión de segundos sin necesidad de herramientas extra. Solo tendrás que colocar el adaptador bajo del sillín y enganchar el dispositivo LED en él. Tambíen se puede utilizar como luces de casco, mochila y demás gracias a la adaptabilidad de su enganche.
 - 🚲 FUENTE DE ALIMENTACIÓN: Cuenta con una batería de litio de larga duración con capacidad de 220mAh para tratar de evitar el reemplazo de la batería de forma innecesaria. Recargable e incluye cable de carga USB.
+- 🚲 LUZ TRASERA LED: Luz led de bicicleta compacta y recargable, compatible con todas las bicicletas. Se puede montar en bicicletas para niños, bicicletas para adultos, bicicleta ruta, MTB, híbrida, plegable… La adaptabilidad del enganche permita que también se pueda usar como luces de casco y de mochila.
 - 🚲 5 MODOS DE LUZ: Selecciona el modo de luz que más se adapte a tu contexto. La luz trasera admite 5 modos de iluminación: luz estroboscópica (9 horas), luz estroboscópica lenta (56 horas), flash de meteoros (14 horas), flash de Tai Chi (17 horas), flash de respiración (8 horas). Puede cambiar los diferentes modos según sus necesidades cuántas veces lo desees.
 - 🚲 RESISTENTE AL AGUA: Cuenta con la certificación IPX5 de resistencia al agua que asegura su perfecto funcionamiento incluso en condiciones adversas de lluvia intensa.
-- 🚲 LUZ TRASERA LED: Luz led de bicicleta compacta y recargable, compatible con todas las bicicletas. Se puede montar en bicicletas para niños, bicicletas para adultos, bicicleta ruta, MTB, híbrida, plegable… La adaptabilidad del enganche permita que también se pueda usar como luces de casco y de mochila.
+- 🚲 FÁCIL INSTALACION: Sencilla instalación en cuestión de segundos sin necesidad de herramientas extra. Solo tendrás que colocar el adaptador bajo del sillín y enganchar el dispositivo LED en él. Tambíen se puede utilizar como luces de casco, mochila y demás gracias a la adaptabilidad de su enganche.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJW5ZBBZ{{</world>}}

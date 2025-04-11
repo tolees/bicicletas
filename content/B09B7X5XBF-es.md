@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gafas de sol de forma cuadrada
 - Montura de calidad
 - Producto fabricado por Alpina
 - El diseño se caracteriza por lentes espejadas
-- Gafas de sol de forma cuadrada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09B7X5XBF{{</world>}}
