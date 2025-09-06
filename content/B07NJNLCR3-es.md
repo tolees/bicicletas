@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mejora el rendimiento de la cadena y componentes de la transmisión
-- Lubricación adaptada a todo tipo de condiciones
-- Recomendado para: cadena, cambio, plato y cassette
 - Suaviza los cambios de marcha
+- Recomendado para: cadena, cambio, plato y cassette
+- Lubricación adaptada a todo tipo de condiciones
 - Su fórmula repele la humedad y evita la corrosión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
