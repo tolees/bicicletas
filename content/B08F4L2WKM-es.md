@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño moderno
 - Fácil de rellenar
+- Diseño moderno
 - Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})
