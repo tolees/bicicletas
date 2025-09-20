@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'AMZOON Bomba de Aire para Bicicleta con Manómetro y Manguera extendida  Mini Bomba de Bicicleta Adecuada para Válvulas Schrader y Presta'
-date: 2024-10-20 04:25:34
+date: 2025-09-20 02:52:16
 image: 'https://m.media-amazon.com/images/I/41pfBMRs8OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B089LQNCZF-es AMZOON Bomba de Aire para Bicicleta con Manómetro y...'
 sku: 'B089LQNCZF-es'
-tags: [ 'bicicleta','🇪🇸', ]
-actualPrice: 11.02 EUR
+tags: [ 'Accesorios de ciclismo','Bombas de marco para bicicletas','Bombas para hinchar bicicletas','Ciclismo','Deportes y aire libre','Ropa y equipo para deportes','amzoon','bicicleta','🇪🇸', ]
+actualPrice: 10.43 EUR
 currency: EUR
-price: 11.02
-comparePrice: 13.99 EUR
+price: 10.43
+comparePrice: 13.29 EUR
 prodname: 'AMZOON Bomba de Aire para Bicicleta con Manómetro y Manguera extendida  Mini Bomba de Bicicleta Adecuada para Válvulas Schrader y Presta'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'AMZOON'
 buyurl: 'https://www.amazon.es/dp/B089LQNCZF/?tag=tolees-21'
-descuento: '21.23'
-average: '13.4137209302328'
+descuento: '21.52'
+average: '13.2811111111113'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
