@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mira su display: incluye pantalla LCD con soporte para dispositivos, que muestra calorías, distancia, tiempo y revoluciones por minuto.
 - Entrenamiento fluido: su volante de inercia de 13 kg consigue un entrenamiento completo y perfectamente fluido.
-- Dimensiones del producto: 107 x 50 x 114 cm. 120 kg de peso máximo: el peso máximo del usuario no debe sobrepasar los 120 kg.
 - Resistencia ajustable: adapta el entrenamiento a tus exigencias regulando su resistencia.
+- Dimensiones del producto: 107 x 50 x 114 cm. 120 kg de peso máximo: el peso máximo del usuario no debe sobrepasar los 120 kg.
+- Mira su display: incluye pantalla LCD con soporte para dispositivos, que muestra calorías, distancia, tiempo y revoluciones por minuto.
 - Adapta el sillín: siéntete cómodo en todo momento con su sillín ajustable vertical y horizontalmente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
