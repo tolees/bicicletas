@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería recargable de Litio de 36 V 8 Ah, 250 W, con tiempo de carga completa de 4 horas
 - Autonomía: 45 km
+- Batería recargable de Litio de 36 V 8 Ah, 250 W, con tiempo de carga completa de 4 horas
 - Velocidad máxima: 25 km/h
 - Chasis de aluminio
 
