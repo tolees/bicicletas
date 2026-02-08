@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuidamos los detalles: botella, portabotellas, pedales con calapiés, estabilizadores y ruedas para un fácil transporte.
-- Volante de inercia de 6 kg: para un entrenamiento adaptado a tus necesidades. Custom resistance: resistencia variable para simular un entrenamiento en diferentes entornos. Hands Free: incluye soporte para dispositivos, smartphone, tablet, libro, etc.
 - Peso máximo de usuario 120 Kg y altura hasta 185 cm. Estructura robusta que aporta la estabilidad que necesitas.
+- Volante de inercia de 6 kg: para un entrenamiento adaptado a tus necesidades. Custom resistance: resistencia variable para simular un entrenamiento en diferentes entornos. Hands Free: incluye soporte para dispositivos, smartphone, tablet, libro, etc.
 - BeltRide: sistema de pedaleo fluido mediante transmisión por correa. ComfortFit: sillín ergonómico con acolchado y manillar ajustables para tus entrenamientos de largo recorrido.
 - Pantalla LCD con panel de control: muestra velocidad, tiempo, distancia y calorías consumidas.
 
