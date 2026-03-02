@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ruedas de 27,5” neumáticas, resistentes y estables; velocidad máxima para permitir la asistencia al pedaleo de 25 kms por hora; incorpora 6 velocidades Shimano; incluye cesta delantera y trasera; cesta delantera desmontable
-- Marco de aluminio, proporciona la combinación definitiva y versátil de resistencia y ligereza; su horquilla de suspensión integrada garantiza una experiencia de conducción cómoda y segura, incluso en terrenos irregulares; estructura ligera 180x65,5x106cm (largo x ancho x alto) / Peso 26 Kg
 - Foco frontal de alta luminosidad y luz de freno trasera para que te vean mientras circulas; 2 modos de conducción, modo paseo y modo de asistencia al pedaleo
-- Frenos de disco delanteros y traseros: Duraderos y resistentes, transmite la fuerza suficiente a las ruedas para detener el vehículo al presionar la maneta de freno
+- Ruedas de 27,5” neumáticas, resistentes y estables; velocidad máxima para permitir la asistencia al pedaleo de 25 kms por hora; incorpora 6 velocidades Shimano; incluye cesta delantera y trasera; cesta delantera desmontable
 - Motor con potencia nominal de 250W 36V, Batería de litio eficiente y estable de 10 Ah, autonomía de hasta 60 kms
+- Frenos de disco delanteros y traseros: Duraderos y resistentes, transmite la fuerza suficiente a las ruedas para detener el vehículo al presionar la maneta de freno
+- Marco de aluminio, proporciona la combinación definitiva y versátil de resistencia y ligereza; su horquilla de suspensión integrada garantiza una experiencia de conducción cómoda y segura, incluso en terrenos irregulares; estructura ligera 180x65,5x106cm (largo x ancho x alto) / Peso 26 Kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8JT24DN{{</world>}}

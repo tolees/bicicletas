@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: EasyPump, cable USB, 3 adaptadores, Enchufe de conexión rápida, Bolsa para bicicleta
-- Pantalla digital y luz LED: la pantalla iluminada muestra la medición en tiempo real, el valor preestablecido y el indicador de estado de la batería. La luz LED ilumina la zona de la válvula
 - Función de apagado automático: para ahorrar energía, el compresor de aire se apagará automáticamente si no se usa y cuenta con USB-C para recargarlo de forma sencilla
 - Función de parada automática: La bomba de aire ofrece 3 unidades de presión diferentes (psi, bar, kPa) y se apaga automáticamente al alcanzar el valor preestablecido
+- Pantalla digital y luz LED: la pantalla iluminada muestra la medición en tiempo real, el valor preestablecido y el indicador de estado de la batería. La luz LED ilumina la zona de la válvula
+- Incluye: EasyPump, cable USB, 3 adaptadores, Enchufe de conexión rápida, Bolsa para bicicleta
 - Comodidad: La bomba de aire a batería puede utilizarse para inflar neumáticos (automóvil, motocicleta, bicicleta), pelotas y pequeños equipos de agua con hasta 10,3 bar de presión y es adecuada para todas las válvulas estándar, y solo pesa 430 g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

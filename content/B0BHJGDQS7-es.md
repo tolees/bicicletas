@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - BeltRide: sistema de pedaleo fluido mediante transmisión por correa. ComfortFit: sillín ergonómico con acolchado y manillar ajustables para tus entrenamientos de largo recorrido.
 - Volante de inercia de 6 kg: para un entrenamiento adaptado a tus necesidades. Custom resistance: resistencia variable para simular un entrenamiento en diferentes entornos. Hands Free: incluye soporte para dispositivos, smartphone, tablet, libro, etc.
 - Peso máximo de usuario 120 Kg y altura hasta 185 cm. Estructura robusta que aporta la estabilidad que necesitas.
-- Pantalla LCD con panel de control: muestra velocidad, tiempo, distancia y calorías consumidas.
 - Cuidamos los detalles: botella, portabotellas, pedales con calapiés, estabilizadores y ruedas para un fácil transporte.
+- Pantalla LCD con panel de control: muestra velocidad, tiempo, distancia y calorías consumidas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHJGDQS7{{</world>}}
