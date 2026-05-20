@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Doble válvula-El cuerpo telescópico permite enviar un gran volumen de aire en cada golpe de bomba Para aumentar la presión al final del inflado
 - Sistema reversible con válvulas presta y schrader
+- Doble válvula-El cuerpo telescópico permite enviar un gran volumen de aire en cada golpe de bomba Para aumentar la presión al final del inflado
 - Longitud: 140 mm por sus reducidas dimensiones es ideal para el transporte en bici de mtb o de carretera.
 - Bomba con cuerpo y terminación en aluminio; para válvula presta y schrader; presión max 120 psi-longitud 140mm-para llevar en una bolsa de herramientas gracias a su pequeño tamaño
 - Presión máxima: 120 psi longitud 14cm
