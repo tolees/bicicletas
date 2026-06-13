@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Compresor de aire Xiaomi
 - Modelo portátil Pro
 - Sistema de presión regulable
-- Compresor de aire Xiaomi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLBGZG3N{{</world>}}
