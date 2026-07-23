@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mejora el rendimiento de la cadena y componentes de la transmisión
 - Su fórmula repele la humedad y evita la corrosión
 - Lubricación adaptada a todo tipo de condiciones
+- Mejora el rendimiento de la cadena y componentes de la transmisión
 - Recomendado para: cadena, cambio, plato y cassette
 - Suaviza los cambios de marcha
 
