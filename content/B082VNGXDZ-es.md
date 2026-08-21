@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paqueteage Dimensiones: 7.6 L x 23.0 H x 8.0 W (centimeters)
-- Fácil de usar
-- Componentes incluidos: Neumáticos
 - Black
+- Paqueteage Dimensiones: 7.6 L x 23.0 H x 8.0 W (centimeters)
+- Componentes incluidos: Neumáticos
+- Fácil de usar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VNGXDZ{{</world>}}
