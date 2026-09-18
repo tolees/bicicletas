@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño moderno
-- La siguiente información se aplica a cada unidad del paquete
 - Producto de calidad óptima
+- La siguiente información se aplica a cada unidad del paquete
 - Fácil de rellenar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
