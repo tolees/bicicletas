@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paqueteage Dimensiones: 7.6 L x 23.0 H x 8.0 W (centimeters)
+- Componentes incluidos: Neumáticos
 - Black
 - La siguiente información se aplica a cada unidad del paquete
-- Componentes incluidos: Neumáticos
+- Paqueteage Dimensiones: 7.6 L x 23.0 H x 8.0 W (centimeters)
 - Fácil de usar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
