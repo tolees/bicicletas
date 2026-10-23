@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye ruedines para ayudarle a mantener el equilibrio
 - Marca: TOIMSA
-- Edad recomendada por el fabricante: e3 años y más
 - Multicolor
+- Edad recomendada por el fabricante: e3 años y más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XFC3N5T{{</world>}}
