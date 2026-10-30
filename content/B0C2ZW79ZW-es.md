@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en España
 - Tamaño recomendado de 85 a 100
-- Con ruedines para facilitar el aprendizaje, cubrecadena y guardabarros
 - Adecuado para niños desde 3 a 5 años
+- Fabricado en España
+- Con ruedines para facilitar el aprendizaje, cubrecadena y guardabarros
 - Tiene el manillar y el sillín regulables en altura para adaptarse al tamaño del niño
 - Bicicleta de 12" con frenos delanteros y traseros tipo herradura y ruedas hinchables
 

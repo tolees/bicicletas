@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lamicall Compresor Aire Portatil Coche Bomba Eléctrica de Bicicleta | [6000 mAh Batería] [Compacto & Portátil] HD LED Pantalla con 3 Boquillas 150 PSI Inflador Ruedas para Coche/Moto/Bicicleta'
-date: 2026-10-26 14:37:20
+date: 2026-10-29 15:27:19
 image: 'https://m.media-amazon.com/images/I/41pIWXYtMgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
