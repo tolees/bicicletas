@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hidrolimpiadora Inalámbrica Portátil Motor 1800W Máx 80Bar Carga Tipo-C | Boquilla 5 en 1 1 5 lbs Depósito Espuma Portátil Pantalla LED Manguera 5m Para Coche Bicicleta Hogar Jardín & Camping'
-date: 2026-11-09 12:29:09
+date: 2026-11-13 18:19:55
 image: 'https://m.media-amazon.com/images/I/41BD90PZPVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H2LFV9GY/?tag=tolees-21'
 descuento: '40.63'
-average: '50.406666666666752'
+average: '49.990000000000073'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
