@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PAIDASHU Compresor de aire inalámbrico para inflar neumáticos bomba eléctrica portátil de 150 PSI 6000 mAh para bicicleta con doble pantalla digital LCD manómetro bomba recargable para coche'
-date: 2026-11-19 09:30:30
+date: 2026-11-20 13:08:08
 image: 'https://m.media-amazon.com/images/I/513DGbYx7HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
