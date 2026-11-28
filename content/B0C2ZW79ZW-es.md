@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en España
 - Con ruedines para facilitar el aprendizaje, cubrecadena y guardabarros
-- Bicicleta de 12" con frenos delanteros y traseros tipo herradura y ruedas hinchables
-- Adecuado para niños desde 3 a 5 años
 - Tamaño recomendado de 85 a 100
+- Bicicleta de 12" con frenos delanteros y traseros tipo herradura y ruedas hinchables
+- Fabricado en España
+- Adecuado para niños desde 3 a 5 años
 - Tiene el manillar y el sillín regulables en altura para adaptarse al tamaño del niño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
